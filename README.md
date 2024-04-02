@@ -1,4 +1,4 @@
-<h2>Projeto de Ferramentas em JavaScript</h2> 
+<h2>Projeto de Ferramentas</h2> 
 Este repositório contém uma coleção de ferramentas simples desenvolvidas em JavaScript. Cada ferramenta é um projeto independente e pode ser encontrado em arquivos separados dentro deste repositório. O objetivo é fornecer exemplos de implementações simples, mas funcionais, de várias funcionalidades usando JavaScript. A intenção do projeto é somente desenvolver uma aplicação web e depois disso praticar testes unitários, de integração e e2e.<br><br>
 
 <h3>Ferramentas Disponíveis:</h3>
